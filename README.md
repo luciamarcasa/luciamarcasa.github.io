@@ -61,27 +61,42 @@ Play: te llevará a una pantalla donde se podrá escoger el personaje que se des
 
 ![Ilustración_sin_título](https://user-images.githubusercontent.com/106830356/172909990-0d3939d8-33b9-444f-9d1b-8591415996a4.jpg)
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
 
 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+He usado diferentes herramientas para que el jugador tenga la mejor experiencia de juego, el movimiento con el teclado y el tipo de juego que es hacen que sea fácil de jugarlo y a su vez divertido como experiencia interactiva.
 
 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+![bombb1](https://user-images.githubusercontent.com/106830356/172911191-0d428f49-50d2-4d79-9c25-8b8d4e7a49a8.png)
 
+![cereza](https://user-images.githubusercontent.com/106830356/172911225-7ec086e9-d3be-4dce-a037-879bc3f11258.png)
+
+![coche png](https://user-images.githubusercontent.com/106830356/172911277-9df89cff-302e-4742-b4c9-8b8a416547ab.png)
+
+![choque](https://user-images.githubusercontent.com/106830356/172911303-0e359ebd-16da-4c97-b54d-454b01424c66.gif)
+
+![corazón roto](https://user-images.githubusercontent.com/106830356/172911336-b6c22f3e-2a46-4756-9cbf-c4aed2a14997.png)
+
+![fondo](https://user-images.githubusercontent.com/106830356/172911346-adb65699-0d80-493d-a766-d64cf2c09928.png)
+
+![GIF1](https://user-images.githubusercontent.com/106830356/172911367-1388f8f9-2ae3-46bc-92a8-3283e1f4c891.gif)
+![GIF4](https://user-images.githubusercontent.com/106830356/172911392-ebde6387-8fae-4684-9c7d-0abacae6da81.gif)
+![GIF2](https://user-images.githubusercontent.com/106830356/172911395-949cc832-b9c3-4e0a-9a25-089c36b77781.gif)
+![GIF3](https://user-images.githubusercontent.com/106830356/172911397-15251a4d-0c00-49bb-a82d-9f3a6725cca6.gif)
+![haechan gif](https://user-images.githubusercontent.com/106830356/172911409-776e9215-4edc-4341-b014-2a0aca2d6dca.gif)
+![Jaehyun gif](https://user-images.githubusercontent.com/106830356/172911423-d510895e-6c98-4aca-8311-120ae4445534.gif)
+![Mark gif](https://user-images.githubusercontent.com/106830356/172911448-75497c2b-3140-4b50-a21a-ffe554b117a0.gif)
+![Taeil gif](https://user-images.githubusercontent.com/106830356/172911638-f0ca3d50-1663-4638-bd17-fa690002fb56.gif)
+![Taeyong gif](https://user-images.githubusercontent.com/106830356/172911747-12d59d51-2186-4e94-90ce-542b95958d49.gif)
+![Win win gif](https://user-images.githubusercontent.com/106830356/172911780-da92022d-53b8-47bd-b3d8-e0f7634306d2.gif)
+![johnny gif](https://user-images.githubusercontent.com/106830356/172911433-0373aaa4-7644-4849-a1c6-756d688334b5.gif)
 
 
 **Motivación de la propuesta** 
