@@ -17,7 +17,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  juego
 
-**Logotipo** : Mi idea fue que todo el juego tuviera una estética de videojuego antiguo de píxeles, por eso el título en sí tiene esa estética y los colores elegidos son los que han sido inspirados por las ilustraciones del álbum. ![Ilustración_sin_título](https://user-images.githubusercontent.com/106830356/172902376-31fcd5d9-08c4-45e1-8688-60ae4d6da308.png)
+**Logotipo** : Mi idea fue que todo el juego tuviera una estética de videojuego antiguo de píxeles, por eso el título en sí tiene esa estética y los colores elegidos son los que han sido inspirados por las ilustraciones del álbum.
+
+![Ilustración_sin_título](https://user-images.githubusercontent.com/106830356/172902376-31fcd5d9-08c4-45e1-8688-60ae4d6da308.png)
 
 
 (insertar imágenes a resolucion de 100px alto)
