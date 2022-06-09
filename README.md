@@ -7,11 +7,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
-**Titulo** : Cherry Bomb
+**Titulo** : Cherry Bomb.
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Lucía Martínez Casado.
 
 **Resumen** : Este proyecto está inspirado en la canción Cherry Bomb del grupo NCT127. Es un juego en el que se deberá esquivar toda las bombas posibles y recoger todas las cerezas que se puedan, todo mientras se escucha 
 
@@ -22,40 +22,44 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ![Ilustración_sin_título](https://user-images.githubusercontent.com/106830356/172902376-31fcd5d9-08c4-45e1-8688-60ae4d6da308.png)
 
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome
 
 **Tamaño proyecto:** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 09/05/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+# 2. Memoria del proyecto:
 
-# 2. Memoria del proyecto 
+Este proyecto ha sido inspirado por el álbum musical "Cherry Bomb" del grupo NCT127. Tanto los personajes, la estética y los colores usados hacen referencia a las ilustraciones, fotografías e integrantes que este mismo contiene. El juego es sencillo, eres un coche y con las flechas derecha e izquierza de tu teclado podrás moverte por la pantalla para esquivar las bombas. Comienzas con cinco vidas, cada bomba te quitará una vida, si te quedas sin vidas te llevará a la pantalla de fallo y tendrás que volver a empezar. En cambio las cerezas te darán vida, si consigues terminar el recorrido con vidas habrás ganado el juego.
+
+Todas las ilustraciones y botones que se pueden ver han sido realizados por mi usando Procreate, una aplicación de dibujo que también ayuda a la creación de animación, la cual usé para animar cada personaje.
+
+Dentro del menú se podrá ver y escuchar cada canción del álbum, bajar el volúmen y un video explicatorio de cómo jugarlo, el cual se podrá parar, reanudar y volver a ver tantas veces como se quiera.
 
 ### 2.1 Storyboard: 
 
+Primero empezaremos en la pantalla de inicio, donde se podrá ver uno de los personajes del juego y un coche entrará en la pantalla. Cerezas caerán poco a poco mientras la canción principal se escucha. Tendremos dos botones:
 
+Menú: donde se encontrarán los créditos, los personajes, música y una pequeña presentación del juego. Además en una esquina estará el botón de ajustes, donde se podrá cambiar de canción, bajar el volúmen y ver el vídeo explicatorio.
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Play: te llevará a una pantalla donde se podrá escoger el personaje que se desea, una vez se esté listo el botón comenzar te llevará a la pantalla de juego. Gracias a las teclas derecha e izquierda podrás moverte a lo largo  de la pantalla para poder esquivar bombas y recolectar cerezas. Si se gana te llevará a la pantalla WIN donde todos los personajes te felicitarán y podrás optar a jugar de nuevo, en cambio si pierdes te llevará a una pantalla donde un coche se aleja y un corazón roto aparece, dejándote la oportunidad de volver a jugar.
 
 
 
 ### 2.2. Esquema de navegación 
 
 
+![Ilustración_sin_título](https://user-images.githubusercontent.com/106830356/172909990-0d3939d8-33b9-444f-9d1b-8591415996a4.jpg)
 
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
