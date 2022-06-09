@@ -1,23 +1,24 @@
 # cmi22
 
-## (Nombre del proyecto)
+## Cherry Bomb
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Cherry Bomb
 
 **Web:**   (url github.io)
 
 **Autor:**  (Nombre apellidos)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto está inspirado en la canción Cherry Bomb del grupo NCT127. Es un juego en el que se deberá esquivar toda las bombas posibles y recoger todas las cerezas que se puedan, todo mientras se escucha 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : (insertar imagen y breve justificación, si  tiene) ![Ilustración_sin_título](https://user-images.githubusercontent.com/106830356/172902376-31fcd5d9-08c4-45e1-8688-60ae4d6da308.png)
+
 
 (insertar imágenes a resolucion de 100px alto)
 
