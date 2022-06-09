@@ -31,7 +31,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 09/05/2022
+**Fecha** : 09/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -97,37 +97,44 @@ He usado diferentes herramientas para que el jugador tenga la mejor experiencia 
 ![Taeyong gif](https://user-images.githubusercontent.com/106830356/172911747-12d59d51-2186-4e94-90ce-542b95958d49.gif)
 ![Win win gif](https://user-images.githubusercontent.com/106830356/172911780-da92022d-53b8-47bd-b3d8-e0f7634306d2.gif)
 ![johnny gif](https://user-images.githubusercontent.com/106830356/172911433-0373aaa4-7644-4849-a1c6-756d688334b5.gif)
+![yuta gif](https://user-images.githubusercontent.com/106830356/172911937-e728962a-ec09-42a7-a090-6b907f8cfc20.gif)
+
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque pienso que estéticamente llama mucho la atención y para personas que les pueda gustar este tipo de música o les gusta conocer diferentes tipos les puede parecer divertido jugar mientras aprenden nuevas canciones.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
-
+- Orientado a fans del grupo en cuestión y/o personas que quieran conocer música.
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego. Dentro del juego gracias a la tecla derecha e izquierda el coche podrá moverse para esquivar y recolectar objetos. Un problema que tuve fue que los objetos bajaran de forma aleatoria, lo cual tuve que acabar cambiando al final completamente. Dependiendo del objeto que es, al chocar con el coche restará (bombas)  o sumará (cerezas) puntos.
 
+- Video: el video se grabó con una grabadora de pantalla online.
+
+- Instrucciones y ayuda al usuario: todo se puede ver en el video de ayuda en ajustes, que se podrá parar, reanudar y hasta volver a ver desde el principio si es necesario.
+
+- Menús y elementos de navegación: hay botones para ir a la pantalla anterior, botón de ajustes (anteriormente explicado), botón play (para escoger personaje y empezar a jugar), botones que te vuelven a llevar al menú y otros para la escena uno.
+
+![)](https://user-images.githubusercontent.com/106830356/172915218-7a32347b-4f9c-4055-a5d0-af6b045b28b8.png)
+![(](https://user-images.githubusercontent.com/106830356/172915221-184329fe-5c4a-416e-adca-8cb58e3d2de0.png)
+![ajustes](https://user-images.githubusercontent.com/106830356/172915254-a5706974-d596-4a21-8f15-25b664b587bc.png)
+![atrás](https://user-images.githubusercontent.com/106830356/172915271-66ae3912-2ca9-478a-8a00-c5e708db6f69.png)
+![Back button](https://user-images.githubusercontent.com/106830356/172915284-5e564f99-a5c7-443b-b97e-7843b8e51776.png)
+![Button_stop whiplash](https://user-images.githubusercontent.com/106830356/172915303-f052e138-1cfd-4fb5-8e30-de0a649c7fcb.png)
+![comenzar png](https://user-images.githubusercontent.com/106830356/172915335-49c1a62d-690f-4fb5-8ed3-3a25f9843cf8.png)
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Me hubiera gustado que fuera más larga la partida y que los objetos cayeran aleatoriamente por la pantalla.
 
 
 
@@ -135,33 +142,28 @@ Este  proyecto es interesante porque ...
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
+Personalemente creo que he hecho un gran trabajo teniendo en cuenta que soy nula con cualquier actividad que requiera ordenadores o electrónica. Todos lso diseños, ilustraciones y dibujos los he realizado a mano, he añadido todos los ejercicios que he podido y le he echado bastantes horas. Obviamente podría haber mejorado muchísimas más cosas que conciernen al juego en sí como por ejemplo que el fondo y los objetos cayeran cada vez más rápido cuanto más tiempo estás jugando para hacer el juego más interesante y poder crear niveles.
 
-
-
-
+En sí no me deja exportarlo y cuando lo consigo da error y ni siquiera se ve la pantalla de inicio y los botones y animaciones que le corresponden.
 
 
 # 5 Referencias 
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+https://anglemagazine.co.kr/bang-sang-ho/
+https://es.wikipedia.org/wiki/Cherry_Bomb_(EP)
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  [Archivos.zip](https://github.com/luciamarcasa/luciamarcasa.github.io/files/8872944/Archivos.zip)
+
+* Tipografía: Minecraft Font.
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate.
 
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
 
 Mayo 2020
